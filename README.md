@@ -5,6 +5,14 @@
 This project presents an interactive **Superstore Sales Analysis Dashboard** created using Microsoft Excel. The dashboard analyzes sales, profit, customer segments, product categories, regional performance, and monthly trends.
 
 The project demonstrates the complete data analysis workflow from raw data cleaning and transformation to analysis and dashboard creation.
+## 📌 Dashboard Highlights
+
+| KPI | Value |
+|---|---:|
+| Total Sales | ₹19,24,337.88 |
+| Total Profit | ₹2,24,077.61 |
+| Profit Margin | 12% |
+| Items Sold | 25,268 |
 
 ## 🛠️ Tools & Technologies
 
