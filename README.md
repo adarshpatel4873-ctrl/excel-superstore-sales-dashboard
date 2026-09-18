@@ -1,5 +1,5 @@
 # Superstore Sales Analysis Dashboard – 2015
-
+![Superstore Sales Dashboard](dashboard-preview.png)
 ## 📊 Project Overview
 
 This project presents an interactive **Superstore Sales Analysis Dashboard** created using Microsoft Excel. The dashboard analyzes sales, profit, customer segments, product categories, regional performance, and monthly trends.
